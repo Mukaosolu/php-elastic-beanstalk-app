@@ -21,8 +21,8 @@ A simple PHP web application deployed on **AWS Elastic Beanstalk**, demonstratin
    ![Home Page](docs/5-home-page-live.png)  
 6. About Page Live  
    ![About Page](docs/6-about-page-live.png)  
-7. Monitoring & Logs  
-   ![Monitoring](docs/7-monitoring-logs.png)  
+7. Termination of eb  
+   ![Termination](docs/7-monitoring-logs.png)  
 
 ## Lessons Learned
 - **File structure matters**: placing PHP files at the root of the zip avoids 403 Forbidden errors  
