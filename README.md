@@ -10,7 +10,7 @@ A simple PHP web application deployed on **AWS Elastic Beanstalk**, demonstratin
 
 ## Screenshots
 1. EB Dashboard  
-   ![EB Dashboard](docs/1-eb-dashboard.png.png1-eb-dashboard.png)  
+   ![EB Dashboard](docs/1-eb-dashboard.png)
 2. Environment Creation  
    ![Environment Creation](docs/2-environment-creation.png)  
 3. Upload & Deploy  
